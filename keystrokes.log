@@ -1,0 +1,290 @@
+2025-03-06 12:24:59,159 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.108:5000
+2025-03-06 12:24:59,159 - [33mPress CTRL+C to quit[0m
+2025-03-06 12:24:59,179 -  * Restarting with stat
+2025-03-06 12:24:59,621 -  * Debugger is active!
+2025-03-06 12:24:59,622 -  * Debugger PIN: 655-671-073
+2025-03-06 12:25:39,467 - 127.0.0.1 - - [06/Mar/2025 12:25:39] "GET / HTTP/1.1" 200 -
+2025-03-06 12:25:39,550 - 127.0.0.1 - - [06/Mar/2025 12:25:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-06 12:25:58,489 - User: yernar@gmail.com | Password: 1209
+2025-03-06 12:25:58,489 - 127.0.0.1 - - [06/Mar/2025 12:25:58] "POST /log HTTP/1.1" 200 -
+2025-03-06 12:26:00,585 - User: yernar@gmail.com | Password: 1209
+2025-03-06 12:26:00,586 - 127.0.0.1 - - [06/Mar/2025 12:26:00] "POST /log HTTP/1.1" 200 -
+2025-03-06 12:26:07,172 - User: yernar@gmail.com | Password: 1209
+2025-03-06 12:26:07,172 - 127.0.0.1 - - [06/Mar/2025 12:26:07] "POST /log HTTP/1.1" 200 -
+2025-03-06 12:35:35,070 -  * Detected change in 'C:\\Users\\Yernar\\Desktop\\Новая папка\\keylogger.py', reloading
+2025-03-06 12:35:35,115 -  * Restarting with stat
+2025-03-06 12:35:35,402 -  * Debugger is active!
+2025-03-06 12:35:35,404 -  * Debugger PIN: 655-671-073
+2025-03-06 12:38:38,378 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.108:5000
+2025-03-06 12:38:38,378 - [33mPress CTRL+C to quit[0m
+2025-03-06 12:38:38,379 -  * Restarting with stat
+2025-03-06 12:38:38,641 -  * Debugger is active!
+2025-03-06 12:38:38,643 -  * Debugger PIN: 655-671-073
+2025-03-06 12:38:47,230 - 127.0.0.1 - - [06/Mar/2025 12:38:47] "GET / HTTP/1.1" 200 -
+2025-03-06 12:38:47,316 - 127.0.0.1 - - [06/Mar/2025 12:38:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-06 12:38:50,546 - 127.0.0.1 - - [06/Mar/2025 12:38:50] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:50,612 - 127.0.0.1 - - [06/Mar/2025 12:38:50] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:50,634 - 127.0.0.1 - - [06/Mar/2025 12:38:50] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:50,687 - 127.0.0.1 - - [06/Mar/2025 12:38:50] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:50,712 - 127.0.0.1 - - [06/Mar/2025 12:38:50] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:50,852 - 127.0.0.1 - - [06/Mar/2025 12:38:50] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:50,873 - 127.0.0.1 - - [06/Mar/2025 12:38:50] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:50,893 - 127.0.0.1 - - [06/Mar/2025 12:38:50] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:50,955 - 127.0.0.1 - - [06/Mar/2025 12:38:50] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:50,961 - 127.0.0.1 - - [06/Mar/2025 12:38:50] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:51,023 - 127.0.0.1 - - [06/Mar/2025 12:38:51] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:51,163 - 127.0.0.1 - - [06/Mar/2025 12:38:51] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:51,172 - 127.0.0.1 - - [06/Mar/2025 12:38:51] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:51,173 - 127.0.0.1 - - [06/Mar/2025 12:38:51] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:51,209 - 127.0.0.1 - - [06/Mar/2025 12:38:51] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:51,224 - 127.0.0.1 - - [06/Mar/2025 12:38:51] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:38:52,068 - 127.0.0.1 - - [06/Mar/2025 12:38:52] "[35m[1mPOST /log HTTP/1.1[0m" 500 -
+2025-03-06 12:40:22,123 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.108:5000
+2025-03-06 12:40:22,123 - [33mPress CTRL+C to quit[0m
+2025-03-06 12:40:22,124 -  * Restarting with stat
+2025-03-06 12:40:22,392 -  * Debugger is active!
+2025-03-06 12:40:22,394 -  * Debugger PIN: 655-671-073
+2025-03-06 12:40:25,483 - 127.0.0.1 - - [06/Mar/2025 12:40:25] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-06 12:40:26,993 - 127.0.0.1 - - [06/Mar/2025 12:40:26] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-06 12:40:27,414 - 127.0.0.1 - - [06/Mar/2025 12:40:27] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-06 12:40:27,631 - 127.0.0.1 - - [06/Mar/2025 12:40:27] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-06 12:40:27,820 - 127.0.0.1 - - [06/Mar/2025 12:40:27] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-06 12:40:28,004 - 127.0.0.1 - - [06/Mar/2025 12:40:28] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-06 13:16:33,203 - User pressed: Key.alt_l
+2025-03-06 13:16:33,268 - User pressed: Key.tab
+2025-03-06 13:16:49,273 - User pressed: i
+2025-03-06 13:16:49,374 - User pressed: u
+2025-03-06 13:16:55,515 - User pressed: Key.ctrl_l
+2025-03-06 13:16:55,581 - User pressed: 
+2025-03-06 13:16:57,428 - User pressed: Key.ctrl_l
+2025-03-06 13:16:57,481 - User pressed: 
+2025-03-06 13:16:57,776 - User pressed: Key.enter
+2025-03-06 13:16:59,728 - User pressed: Key.alt_l
+2025-03-06 13:16:59,768 - User pressed: Key.tab
+2025-03-06 13:17:35,721 - User pressed: Key.alt_l
+2025-03-06 13:17:35,731 - User pressed: Key.shift
+2025-03-06 13:17:43,988 - User pressed: v
+2025-03-06 13:17:44,065 - User pressed: j
+2025-03-06 13:17:44,352 - User pressed: ;
+2025-03-06 13:17:44,517 - User pressed: y
+2025-03-06 13:17:45,232 - User pressed: j
+2025-03-06 13:17:45,358 - User pressed: Key.space
+2025-03-06 13:17:45,558 - User pressed: k
+2025-03-06 13:17:45,684 - User pressed: b
+2025-03-06 13:17:45,792 - User pressed: Key.space
+2025-03-06 13:17:46,057 - User pressed: j
+2025-03-06 13:17:46,159 - User pressed: n
+2025-03-06 13:17:46,313 - User pressed: j
+2025-03-06 13:17:46,887 - User pressed: ,
+2025-03-06 13:17:47,852 - User pressed: h
+2025-03-06 13:17:47,957 - User pressed: f
+2025-03-06 13:17:48,264 - User pressed: p
+2025-03-06 13:17:48,451 - User pressed: b
+2025-03-06 13:17:48,581 - User pressed: n
+2025-03-06 13:17:48,642 - User pressed: m
+2025-03-06 13:17:48,763 - User pressed: Key.space
+2025-03-06 13:17:49,303 - User pressed: k
+2025-03-06 13:17:49,373 - User pressed: j
+2025-03-06 13:17:49,557 - User pressed: u
+2025-03-06 13:17:49,681 - User pressed: b
+2025-03-06 13:17:49,770 - User pressed: Key.space
+2025-03-06 13:17:55,496 - User pressed: Key.alt_l
+2025-03-06 13:17:55,543 - User pressed: Key.tab
+2025-03-06 13:18:01,985 - User pressed: Key.shift
+2025-03-06 13:18:01,995 - User pressed: Key.cmd
+2025-03-06 13:18:02,041 - User pressed: S
+2025-03-06 13:18:07,376 - User pressed: Key.cmd
+2025-03-06 13:18:07,401 - User pressed: Key.shift
+2025-03-06 13:18:07,497 - User pressed: S
+2025-03-06 13:18:15,146 - User pressed: w
+2025-03-06 13:18:15,298 - User pressed: h
+2025-03-06 13:18:15,429 - User pressed: a
+2025-03-06 13:18:15,551 - User pressed: t
+2025-03-06 13:18:15,707 - User pressed: Key.backspace
+2025-03-06 13:18:15,848 - User pressed: Key.backspace
+2025-03-06 13:18:15,986 - User pressed: Key.backspace
+2025-03-06 13:18:16,241 - User pressed: Key.backspace
+2025-03-06 13:18:16,504 - User pressed: Key.alt_l
+2025-03-06 13:18:16,522 - User pressed: Key.shift
+2025-03-06 13:18:19,309 - User pressed: Key.ctrl_l
+2025-03-06 13:18:19,395 - User pressed: 
+2025-03-06 13:18:23,144 - User pressed: Key.cmd
+2025-03-06 13:18:23,184 - User pressed: Key.shift
+2025-03-06 13:18:23,235 - User pressed: S
+2025-03-06 13:18:26,421 - User pressed: Key.ctrl_l
+2025-03-06 13:18:26,513 - User pressed: 
+2025-03-06 13:18:27,327 - User pressed: Key.enter
+2025-03-06 13:18:30,423 - User pressed: Key.alt_l
+2025-03-06 13:18:30,433 - User pressed: Key.shift
+2025-03-06 13:18:31,034 - User pressed: f
+2025-03-06 13:18:31,154 - User pressed: k
+2025-03-06 13:18:31,267 - User pressed: b
+2025-03-06 13:18:31,363 - User pressed: i
+2025-03-06 13:18:31,483 - User pressed: Key.space
+2025-03-06 13:18:31,983 - User pressed: y
+2025-03-06 13:18:32,132 - User pressed: e
+2025-03-06 13:18:32,431 - User pressed: ;
+2025-03-06 13:18:32,608 - User pressed: y
+2025-03-06 13:18:32,711 - User pressed: j
+2025-03-06 13:18:32,812 - User pressed: Key.space
+2025-03-06 13:18:33,748 - User pressed: x
+2025-03-06 13:18:34,744 - User pressed: n
+2025-03-06 13:18:34,821 - User pressed: j
+2025-03-06 13:18:35,101 - User pressed: ,
+2025-03-06 13:18:35,311 - User pressed: s
+2025-03-06 13:18:35,403 - User pressed: Key.space
+2025-03-06 13:18:35,727 - User pressed: y
+2025-03-06 13:18:35,850 - User pressed: f
+2025-03-06 13:18:35,931 - User pressed: Key.space
+2025-03-06 13:18:36,216 - User pressed: c
+2025-03-06 13:18:36,475 - User pressed: f
+2025-03-06 13:18:37,073 - User pressed: q
+2025-03-06 13:18:37,250 - User pressed: n
+2025-03-06 13:18:37,607 - User pressed: t
+2025-03-06 13:18:37,751 - User pressed: Key.space
+2025-03-06 13:18:38,088 - User pressed: d
+2025-03-06 13:18:38,159 - User pressed: c
+2025-03-06 13:18:38,436 - User pressed: t
+2025-03-06 13:18:38,541 - User pressed: Key.space
+2025-03-06 13:18:38,808 - User pressed: u
+2025-03-06 13:18:38,944 - User pressed: j
+2025-03-06 13:18:39,222 - User pressed: Key.backspace
+2025-03-06 13:18:39,378 - User pressed: Key.backspace
+2025-03-06 13:18:39,816 - User pressed: k
+2025-03-06 13:18:39,890 - User pressed: j
+2025-03-06 13:18:40,051 - User pressed: u
+2025-03-06 13:18:40,169 - User pressed: b
+2025-03-06 13:18:40,263 - User pressed: Key.space
+2025-03-06 13:18:41,331 - User pressed: n
+2025-03-06 13:18:41,346 - User pressed: j
+2025-03-06 13:18:41,905 - User pressed: Key.backspace
+2025-03-06 13:18:42,043 - User pressed: Key.backspace
+2025-03-06 13:18:42,249 - User pressed: j
+2025-03-06 13:18:42,373 - User pressed: n
+2025-03-06 13:18:42,491 - User pressed: j
+2025-03-06 13:18:43,072 - User pressed: ,
+2025-03-06 13:18:43,334 - User pressed: h
+2025-03-06 13:18:43,468 - User pressed: f
+2025-03-06 13:18:43,805 - User pressed: ;
+2025-03-06 13:18:43,920 - User pressed: f
+2025-03-06 13:18:44,118 - User pressed: k
+2025-03-06 13:18:44,382 - User pressed: b
+2025-03-06 13:18:44,533 - User pressed: c
+2025-03-06 13:18:44,654 - User pressed: m
+2025-03-06 13:18:44,725 - User pressed: Key.space
+2025-03-06 13:18:45,083 - User pressed: Key.backspace
+2025-03-06 13:18:45,223 - User pressed: Key.shift
+2025-03-06 13:18:45,233 - User pressed: Key.alt_l
+2025-03-06 13:18:45,471 - User pressed: ?
+2025-03-06 13:18:45,850 - User pressed: Key.enter
+2025-03-06 13:18:46,131 - User pressed: Key.shift
+2025-03-06 13:18:46,142 - User pressed: Key.alt_l
+2025-03-06 13:18:48,172 - User pressed: Key.alt_l
+2025-03-06 13:18:48,227 - User pressed: Key.tab
+2025-03-06 13:18:52,709 - User pressed: Key.alt_l
+2025-03-06 13:18:52,768 - User pressed: Key.tab
+2025-03-06 13:18:54,706 - User pressed: Key.alt_l
+2025-03-06 13:18:54,717 - User pressed: Key.shift
+2025-03-06 13:18:55,148 - User pressed: r
+2025-03-06 13:18:55,254 - User pressed: f
+2025-03-06 13:18:55,460 - User pressed: Key.backspace
+2025-03-06 13:18:55,622 - User pressed: Key.backspace
+2025-03-06 13:18:55,760 - User pressed: Key.alt_l
+2025-03-06 13:18:55,770 - User pressed: Key.shift
+2025-03-06 13:18:56,011 - User pressed: r
+2025-03-06 13:18:56,121 - User pressed: f
+2025-03-06 13:18:56,233 - User pressed: r
+2025-03-06 13:18:56,368 - User pressed: Key.space
+2025-03-06 13:18:56,768 - User pressed: j
+2025-03-06 13:18:56,882 - User pressed: n
+2025-03-06 13:18:58,295 - User pressed: r
+2025-03-06 13:18:58,835 - User pressed: k
+2025-03-06 13:18:59,368 - User pressed: .
+2025-03-06 13:18:59,587 - User pressed: x
+2025-03-06 13:18:59,783 - User pressed: x
+2025-03-06 13:19:00,180 - User pressed: Key.backspace
+2025-03-06 13:19:00,449 - User pressed: b
+2025-03-06 13:19:00,569 - User pressed: n
+2025-03-06 13:19:00,639 - User pressed: m
+2025-03-06 13:19:00,719 - User pressed: Key.space
+2025-03-06 13:19:01,076 - User pressed: n
+2025-03-06 13:19:01,221 - User pressed: t
+2025-03-06 13:19:01,591 - User pressed: Key.backspace
+2025-03-06 13:19:01,793 - User pressed: Key.backspace
+2025-03-06 13:19:02,496 - User pressed: n
+2025-03-06 13:19:02,928 - User pressed: t
+2025-03-06 13:19:03,097 - User pressed: g
+2025-03-06 13:19:03,183 - User pressed: t
+2025-03-06 13:19:03,301 - User pressed: h
+2025-03-06 13:19:03,549 - User pressed: m
+2025-03-06 13:19:03,654 - User pressed: Key.space
+2025-03-06 13:19:03,785 - User pressed: x
+2025-03-06 13:19:03,896 - User pressed: n
+2025-03-06 13:19:03,967 - User pressed: j
+2025-03-06 13:19:04,201 - User pressed: ,
+2025-03-06 13:19:04,319 - User pressed: s
+2025-03-06 13:19:04,420 - User pressed: Key.space
+2025-03-06 13:19:04,794 - User pressed: y
+2025-03-06 13:19:04,908 - User pressed: t
+2025-03-06 13:19:04,969 - User pressed: Key.space
+2025-03-06 13:19:05,407 - User pressed: k
+2025-03-06 13:19:05,549 - User pressed: j
+2025-03-06 13:19:05,816 - User pressed: u
+2025-03-06 13:19:06,003 - User pressed: b
+2025-03-06 13:19:06,169 - User pressed: h
+2025-03-06 13:19:06,247 - User pressed: j
+2025-03-06 13:19:06,369 - User pressed: d
+2025-03-06 13:19:06,456 - User pressed: f
+2025-03-06 13:19:06,683 - User pressed: k
+2025-03-06 13:19:06,766 - User pressed: Key.space
+2025-03-06 13:19:07,009 - User pressed: Key.enter
+2025-03-06 13:19:20,633 - User pressed: Key.alt_l
+2025-03-06 13:19:20,698 - User pressed: Key.tab
+2025-03-06 13:19:21,904 - User pressed: Key.ctrl_l
+2025-03-06 13:19:22,721 - User pressed: 
+2025-03-06 13:19:24,063 - User pressed: Key.ctrl_l
+2025-03-06 13:19:24,147 - User pressed: 
+2025-03-06 13:19:27,024 - User pressed: Key.ctrl_l
+2025-03-06 13:19:27,159 - User pressed: 
+2025-03-06 13:19:31,483 - User pressed: Key.ctrl_l
+2025-03-06 13:20:15,736 - User pressed: Key.shift
+2025-03-06 13:20:17,783 - User pressed: Key.backspace
+2025-03-06 13:20:19,832 - User pressed: Key.backspace
+2025-03-06 13:20:23,645 - User pressed: Key.backspace
+2025-03-06 13:20:25,668 - User pressed: f
+2025-03-06 13:20:34,950 - User pressed: Key.shift
+2025-03-06 13:20:37,009 - User pressed: k
+2025-03-06 13:20:39,036 - User pressed: Key.ctrl_l
+2025-03-06 13:20:41,256 - User pressed: u
+2025-03-06 13:20:43,304 - User pressed: o
+2025-03-06 13:20:50,120 - User pressed: Key.ctrl_l
+2025-03-06 13:20:53,122 - User pressed: Key.ctrl_l
+2025-03-06 13:21:01,057 - User pressed: w
+2025-03-06 13:21:03,092 - User pressed: e
+2025-03-06 13:21:05,135 - User pressed: q
+2025-03-06 13:21:07,146 - User pressed: h
+2025-03-06 13:21:11,786 - User pressed: Key.ctrl_l
+2025-03-07 12:06:37,530 - User pressed: Key.alt_l
+2025-03-07 12:06:39,575 - User pressed: Key.ctrl_l
+2025-03-07 12:06:42,004 - User pressed: Key.ctrl_l
+2025-03-07 12:08:49,737 - User pressed: Key.enter
+2025-03-07 12:08:51,782 - User pressed: Key.cmd
+2025-03-07 12:08:54,162 - User pressed: Key.esc
+2025-03-07 12:08:57,820 - User pressed: ф
+2025-03-07 12:08:59,849 - User pressed: в
+2025-03-07 12:09:01,893 - User pressed: Key.alt_l
+2025-03-07 12:09:07,113 - User pressed: Key.alt_l
+2025-03-07 12:09:09,157 - User pressed: ц
+2025-03-07 12:09:11,202 - User pressed: Key.alt_l
+2025-03-07 12:09:18,071 - User pressed: й
+2025-03-07 12:09:23,118 - User pressed: Key.ctrl_l
+2025-03-07 12:09:29,482 - User pressed: Key.ctrl_l

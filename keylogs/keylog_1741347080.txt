@@ -1,0 +1,246 @@
+2025-03-07 16:31:22,557 - Key q pressed
+2025-03-07 16:31:22,568 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:22,575 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:22,663 - Key w pressed
+2025-03-07 16:31:22,666 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:22,671 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:22,828 - Key d pressed
+2025-03-07 16:31:22,830 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:22,835 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:24,266 - Key q pressed
+2025-03-07 16:31:24,269 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:24,272 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:24,317 - Key w pressed
+2025-03-07 16:31:24,318 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:24,322 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:24,352 - Key d pressed
+2025-03-07 16:31:24,353 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:24,357 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:24,642 - Special key Key.alt_l pressed
+2025-03-07 16:31:24,643 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:24,646 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:24,703 - Special key Key.tab pressed
+2025-03-07 16:31:24,704 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:24,707 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:40,877 - Special key Key.alt_l pressed
+2025-03-07 16:31:40,880 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:40,885 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:40,928 - Special key Key.tab pressed
+2025-03-07 16:31:40,931 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:40,936 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:41,695 - Key q pressed
+2025-03-07 16:31:41,697 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:41,700 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:41,776 - Key d pressed
+2025-03-07 16:31:41,778 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:41,782 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:41,867 - Key w pressed
+2025-03-07 16:31:41,868 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:41,871 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:41,884 - Key q pressed
+2025-03-07 16:31:41,885 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:41,889 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:42,215 - Special key Key.alt_l pressed
+2025-03-07 16:31:42,218 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:42,223 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:42,291 - Special key Key.tab pressed
+2025-03-07 16:31:42,293 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:42,299 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:43,632 - Special key Key.alt_l pressed
+2025-03-07 16:31:43,635 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:43,640 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:43,710 - Special key Key.tab pressed
+2025-03-07 16:31:43,712 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:43,718 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:44,052 - Special key Key.alt_l pressed
+2025-03-07 16:31:44,054 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:44,060 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:44,102 - Special key Key.tab pressed
+2025-03-07 16:31:44,106 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:44,112 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:46,505 - Special key Key.cmd pressed
+2025-03-07 16:31:46,508 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:46,511 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:46,520 - Key s pressed
+2025-03-07 16:31:46,522 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:46,525 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:46,545 - Special key Key.shift pressed
+2025-03-07 16:31:46,546 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:46,549 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:49,558 - Special key Key.cmd pressed
+2025-03-07 16:31:49,561 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:49,566 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:49,592 - Special key Key.shift pressed
+2025-03-07 16:31:49,594 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:49,599 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:49,627 - Key S pressed
+2025-03-07 16:31:49,630 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:49,636 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:51,388 - Special key Key.alt_l pressed
+2025-03-07 16:31:51,393 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:51,402 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:51,455 - Special key Key.tab pressed
+2025-03-07 16:31:51,458 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:51,468 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:52,051 - Special key Key.alt_l pressed
+2025-03-07 16:31:52,052 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:52,054 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:52,137 - Special key Key.tab pressed
+2025-03-07 16:31:52,140 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:52,145 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:54,806 - Special key Key.ctrl_l pressed
+2025-03-07 16:31:54,809 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:54,814 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:54,887 - Key  pressed
+2025-03-07 16:31:54,890 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:54,896 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:55,541 - Key n pressed
+2025-03-07 16:31:55,544 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:55,549 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:55,662 - Key f pressed
+2025-03-07 16:31:55,666 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:55,671 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:55,779 - Key r pressed
+2025-03-07 16:31:55,782 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:55,788 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:56,084 - Special key Key.backspace pressed
+2025-03-07 16:31:56,087 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:56,092 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:56,220 - Special key Key.backspace pressed
+2025-03-07 16:31:56,223 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:56,229 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:56,333 - Special key Key.backspace pressed
+2025-03-07 16:31:56,336 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:56,342 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:56,484 - Special key Key.alt_l pressed
+2025-03-07 16:31:56,488 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:56,494 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:56,495 - Special key Key.shift pressed
+2025-03-07 16:31:56,498 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:56,505 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:56,634 - Key n pressed
+2025-03-07 16:31:56,637 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:56,643 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:56,768 - Key f pressed
+2025-03-07 16:31:56,771 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:56,777 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:56,882 - Key r pressed
+2025-03-07 16:31:56,885 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:56,892 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:57,315 - Key ; pressed
+2025-03-07 16:31:57,318 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:57,324 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:57,472 - Key t pressed
+2025-03-07 16:31:57,475 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:57,481 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:57,542 - Special key Key.space pressed
+2025-03-07 16:31:57,546 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:57,552 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:57,759 - Key y pressed
+2025-03-07 16:31:57,762 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:57,768 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:57,897 - Key t pressed
+2025-03-07 16:31:57,900 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:57,907 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:57,970 - Special key Key.space pressed
+2025-03-07 16:31:57,975 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:57,981 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:58,200 - Key h pressed
+2025-03-07 16:31:58,202 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:58,208 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:58,326 - Key f pressed
+2025-03-07 16:31:58,329 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:58,336 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:58,791 - Key , pressed
+2025-03-07 16:31:58,794 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:58,801 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:58,967 - Key j pressed
+2025-03-07 16:31:58,971 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:58,977 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:59,180 - Key n pressed
+2025-03-07 16:31:59,183 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:59,190 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:59,397 - Key f pressed
+2025-03-07 16:31:59,400 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:59,408 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:59,633 - Key t pressed
+2025-03-07 16:31:59,636 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:59,642 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:59,733 - Key n pressed
+2025-03-07 16:31:59,736 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:59,742 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:31:59,809 - Special key Key.space pressed
+2025-03-07 16:31:59,812 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:31:59,818 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:01,425 - Special key Key.alt_l pressed
+2025-03-07 16:32:01,428 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:01,435 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:01,482 - Special key Key.tab pressed
+2025-03-07 16:32:01,485 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:01,491 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:09,395 - Special key Key.alt_l pressed
+2025-03-07 16:32:09,398 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:09,404 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:09,445 - Special key Key.tab pressed
+2025-03-07 16:32:09,448 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:09,454 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:10,102 - Key q pressed
+2025-03-07 16:32:10,105 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:10,112 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:10,849 - Special key Key.backspace pressed
+2025-03-07 16:32:10,852 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:10,859 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:11,028 - Special key Key.alt_l pressed
+2025-03-07 16:32:11,028 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:11,030 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:11,093 - Special key Key.tab pressed
+2025-03-07 16:32:11,095 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:11,098 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:16,893 - Special key Key.alt_l pressed
+2025-03-07 16:32:16,896 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:16,902 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:16,973 - Special key Key.tab pressed
+2025-03-07 16:32:16,974 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:16,977 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:17,762 - Key q pressed
+2025-03-07 16:32:17,765 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:17,769 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:17,863 - Key w pressed
+2025-03-07 16:32:17,866 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:17,872 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:17,914 - Key d pressed
+2025-03-07 16:32:17,917 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:17,923 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:18,081 - Key q pressed
+2025-03-07 16:32:18,084 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:18,090 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:18,102 - Key w pressed
+2025-03-07 16:32:18,106 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:18,112 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:18,168 - Key d pressed
+2025-03-07 16:32:18,170 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:18,177 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:18,403 - Special key Key.backspace pressed
+2025-03-07 16:32:18,405 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:18,412 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:18,570 - Special key Key.backspace pressed
+2025-03-07 16:32:18,573 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:18,579 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:18,710 - Special key Key.backspace pressed
+2025-03-07 16:32:18,713 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:18,719 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:18,866 - Special key Key.backspace pressed
+2025-03-07 16:32:18,870 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:18,877 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:19,022 - Special key Key.backspace pressed
+2025-03-07 16:32:19,025 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:19,032 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:19,152 - Special key Key.backspace pressed
+2025-03-07 16:32:19,155 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:19,162 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:19,546 - Special key Key.alt_l pressed
+2025-03-07 16:32:19,549 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:19,555 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
+2025-03-07 16:32:19,597 - Special key Key.tab pressed
+2025-03-07 16:32:19,600 - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-07 16:32:19,607 - http://127.0.0.1:5000 "POST /log HTTP/1.1" 200 6
